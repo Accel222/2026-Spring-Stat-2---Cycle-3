@@ -1,0 +1,12 @@
+Statistic,Value
+Other risk behavior sample size,5138.0
+Other risk behavior alcohol users,3404.0
+Other risk behavior alcohol use proportion,0.6625145971195018
+No other risk behavior sample size,6937.0
+No other risk behavior alcohol users,1960.0
+No other risk behavior alcohol use proportion,0.28254288597376387
+Difference in proportions,0.3799717111457379
+95% CI lower bound,0.363255774646339
+95% CI upper bound,0.3966876476451368
+z statistic,41.547005508850546
+p-value,0.0
