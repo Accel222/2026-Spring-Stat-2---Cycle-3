@@ -1,0 +1,17 @@
+Statistic,Value
+Female sample size,6425.0
+Female current alcohol users,2864.0
+Female alcohol use proportion,0.4457587548638132
+Female alcohol use percent,44.57587548638132
+Male sample size,6234.0
+Male current alcohol users,2853.0
+Male alcohol use proportion,0.45765158806544753
+Male alcohol use percent,45.765158806544754
+Difference in proportions (Male - Female),0.011892833201634312
+Difference in percentage points,1.1892833201634312
+95% CI lower bound,-0.005446764877567067
+95% CI upper bound,0.02923243128083569
+95% CI lower bound percentage points,-0.5446764877567067
+95% CI upper bound percentage points,2.923243128083569
+z statistic,1.344245502225726
+p-value,0.17886901204413974
